@@ -18,4 +18,4 @@ The comparison of the three algorithms shows that the random forest algorithm ha
 and has a better prediction effect.
 
 
-R文件是 代码的源文件。
+main.R文件是 代码的源文件。
